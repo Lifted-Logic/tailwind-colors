@@ -1,6 +1,6 @@
 {
   "name": "lifted-logic-tailwind-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates tailwind color utilities in a non-tailwind css file",
   "main": "index.js",
   "scripts": {
