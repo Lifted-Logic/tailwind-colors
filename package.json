@@ -1,10 +1,14 @@
 {
-  "name": "@liftedlogic/tailwind-colors",
+  "name": "lifted-logic-tailwind-colors",
   "version": "1.0.0",
   "description": "Generates tailwind color utilities in a non-tailwind css file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lifted-Logic/tailwind-colors"
   },
   "keywords": [],
   "author": "",
